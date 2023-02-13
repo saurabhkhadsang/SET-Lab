@@ -6,3 +6,4 @@ GitLab is similar to GitHub, but it also has some extra features for managing yo
 Q 5. What is version control? Explain with example. 
 Version control is a system for keeping track of different versions of your code. It's like a big notebook where you can write down all the changes you make, so you can look back at older versions later. This is helpful when you're working with other people, or when you want to try out a new idea without ruining your original code.
  
+This is update From seecond branch (New -Question)
